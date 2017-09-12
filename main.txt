@@ -1,0 +1,12 @@
+import StudentGroup;
+import java.util.*;
+public class Main {
+
+	public static void main(String[] args) {
+		
+		Student s=new Student(1,hen merry,1997-01-07,89.56);
+                Student s1=new Student();
+                  s1.setFullname;
+                 }
+
+}
